@@ -1,6 +1,6 @@
 @media (min-width: 768px){
  .box:{
-   top:-5;
+   top:20;
  }
 
 
@@ -8,7 +8,7 @@
 
 @media (min-width: 40px){
  .box:{
-   top:-5;
+top:19; 
  }
 
 
@@ -16,7 +16,7 @@
 
 @media (min-width: 320px){
  .box:{
-   top:-5;
+   top:25;
  }
 
 
