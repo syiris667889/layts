@@ -1,6 +1,22 @@
 @media (min-width: 768px){
  .box:{
-   top:7;
+   top:8;
+ }
+
+
+}
+
+@media (min-width: 40px){
+ .box:{
+   top:9;
+ }
+
+
+}
+
+@media (min-width: 320px){
+ .box:{
+   top:10;
  }
 
 
