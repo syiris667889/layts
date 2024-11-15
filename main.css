@@ -1,5 +1,13 @@
+@media (min-width: 768px){
+ .box:{
+   top:7;
+ }
 
-body{
+
+}
+
+  
+  body{
   display: flex;
   justify-content: center;
   align-items: center;
