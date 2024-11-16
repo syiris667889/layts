@@ -53,8 +53,8 @@ body {
 }
 
 .container .card .c3d {
-  right:1 ;
-  top:3;
+  right:3;
+  top:5;
   z-index: 1000;
   opacity: 0;
   transform: translateY(0);
