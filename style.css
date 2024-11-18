@@ -110,7 +110,7 @@ body {
   }
 
   .container .card:hover .c3d {
-    transform: translateY(-15%); /* Меняем эффект */
+    transform: translateY(-5%); /* Меняем эффект */
   }
 }
 
@@ -124,7 +124,7 @@ body {
     font-size: 1em;
   }
 .container .card .c3d {
-    transform: translateY(-15%);
+    transform: translateY(-5%);
     width: 90%; /* Немного уменьшаем, чтобы не занимала весь экран */
     height: auto; /* Динамическая высота */
     font-size: 0.8em; /* Подходит для маленьких экранов */
