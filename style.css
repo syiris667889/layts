@@ -103,7 +103,7 @@ body {
     font-size: 1.25em;
   }
  .container .card .c3d {
-    transform: translateY(-15%);
+    transform: translateY(-5%);
     width: 100%; /* Заполняет карточку */
     height: 100%; /* Подгон по высоте */
     font-size: 0.9em; /* Если внутри есть текст */
@@ -124,7 +124,7 @@ body {
     font-size: 1em;
   }
 .container .card .c3d {
-    transform: translateY(-15%);
+    transform: translateY(-5%);
     width: 90%; /* Немного уменьшаем, чтобы не занимала весь экран */
     height: auto; /* Динамическая высота */
     font-size: 0.8em; /* Подходит для маленьких экранов */
